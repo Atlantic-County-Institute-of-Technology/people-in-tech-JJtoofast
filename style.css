@@ -1,27 +1,39 @@
 /* JJ, 12.17.2024*/
 
+body{
+  color: white;
+font-family:'roboto',sans-serif;
+background:rgb(251, 252, 250);
+background-image: url("assets/marek-piwnicki-cXTxtsoFGg0-unsplash.jpg")
+
+}
 
 a ThomasEdison{
-    width: 450 ;
-    height: 600;
+    width: 450px ;
+    height: 600px;
 }
     table {
-      font-family: arial, sans-serif;
+      font-family: 'times new roman',  serif;
       border-collapse: collapse;
       width: 100%;
     }
     
     td, th {
-      border: 1px solid #dddddd;
+      border: 1px solid white;
       text-align: left;
       padding: 8px;
     }
     
     tr:nth-child(even) {
-      background-color: #dddddd;
+      background-color:dodgerblue;
     }
-    
-    
+
+    General electrical logo{
+      width: 300px;
+      height: 200px; 
+
+    }
+
     
 
 
